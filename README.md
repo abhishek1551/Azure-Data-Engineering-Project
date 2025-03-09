@@ -12,6 +12,9 @@ This project demonstrates how to build a data pipeline using:
 - **Power BI** for visualization
 
 ## Steps
+## Datasource:
+https://github.com/anshlambaoldgit/Adventure-Works-Data-Engineering-Project/tree/main/Data
+
 
 ### 1. **Setup & Configuration**
 - Create an Azure **Resource Group** and **Data Lake** (with hierarchical namespaces).
