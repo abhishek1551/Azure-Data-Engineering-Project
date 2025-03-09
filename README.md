@@ -11,6 +11,10 @@ This project demonstrates how to build a data pipeline using:
 - **Azure Synapse Analytics** for querying and reporting
 - **Power BI** for visualization
 
+## Architecture 
+![17414882704618611494344588154537](https://github.com/user-attachments/assets/d28704a4-829c-4004-9917-9c5711b20000)
+
+
 ## Steps
 ## Datasource:
 https://github.com/anshlambaoldgit/Adventure-Works-Data-Engineering-Project/tree/main/Data
